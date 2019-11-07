@@ -3,11 +3,12 @@ import { BrowserModule } from '@angular/platform-browser';
 import { FormsModule } from '@angular/forms';
 
 import { AppComponent } from './app.component';
+import { PizzaComponent } from './pizza/pizza.component';
 
 
 @NgModule({
   imports:      [ BrowserModule, FormsModule ],
-  declarations: [ AppComponent ],
+  declarations: [ AppComponent, PizzaComponent ],
   bootstrap:    [ AppComponent ]
 })
 export class AppModule { }
