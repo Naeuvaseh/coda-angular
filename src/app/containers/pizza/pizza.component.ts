@@ -7,8 +7,8 @@ import { Component, OnInit } from '@angular/core';
 })
 export class PizzaComponent implements OnInit {
 
-  constructor() {
-    /*
+  constructor() { 
+     /*
       #1: In /app, create 'containers' directory.
 
       #2: In /app, create 'components' directory.
@@ -36,7 +36,6 @@ export class PizzaComponent implements OnInit {
   }
 
   ngOnInit() {
-  
   }
 
 }
