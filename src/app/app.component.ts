@@ -7,4 +7,11 @@ import { Component } from '@angular/core';
 })
 export class AppComponent  {
   name = 'Angular';
+
+  /*
+    #1: In /app, create an 'pizza' component.
+
+    #2: Use <pizza/> inside the app component
+
+  */
 }
