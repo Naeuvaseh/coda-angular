@@ -28,6 +28,10 @@ export class PizzaComponent implements OnInit {
       #7: Move Toppings interface into /models.
 
       #8: Update imports.
+
+      #9: Add a few toppings to the array.
+
+      #10: Display in PizzaComponent with NgFor.
     */
   }
 
