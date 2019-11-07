@@ -3,7 +3,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { FormsModule } from '@angular/forms';
 
 import { AppComponent } from './app.component';
-import { PizzaComponent } from './pizza/pizza.component';
+import { PizzaComponent } from './containers/pizza.component';
 
 
 @NgModule({
