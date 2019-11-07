@@ -9,11 +9,7 @@ export class PizzaComponent implements OnInit {
 
   constructor() { 
      /*
-      #1: In /app, create 'containers' directory.
-
-      #2: In /app, create 'components' directory.
-
-      #3: Move PizzaComponent into /containers.
+      
 
       #4: Create 'topping' component in /components
 
