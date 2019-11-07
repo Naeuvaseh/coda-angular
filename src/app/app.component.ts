@@ -9,9 +9,12 @@ export class AppComponent  {
   name = 'Angular';
 
   /*
-    #1: In /app, create an 'pizza' component.
+    #1: In /app, create 'containers' directory.
 
-    #2: Use <pizza/> inside the app component
+    #2: In /app, create 'components' directory.
 
+    #3: In /containers, create an 'pizza' component.
+
+    #4: Use <pizza/> inside the app component.
   */
 }
